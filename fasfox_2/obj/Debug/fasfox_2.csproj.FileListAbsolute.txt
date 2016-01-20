@@ -1,0 +1,7 @@
+C:\Users\Arthur\Documents\cAlgo\Sources\Robots\fasfox_2\fasfox_2\obj\Debug\fasfox_2.csprojResolveAssemblyReference.cache
+C:\Users\Arthur\Documents\cAlgo\Sources\Robots\fasfox_2\fasfox_2\bin\Debug\fasfox_2.dll
+C:\Users\Arthur\Documents\cAlgo\Sources\Robots\fasfox_2\fasfox_2\bin\Debug\fasfox_2.pdb
+C:\Users\Arthur\Documents\cAlgo\Sources\Robots\fasfox_2\fasfox_2\bin\Debug\cAlgo.API.dll
+C:\Users\Arthur\Documents\cAlgo\Sources\Robots\fasfox_2\fasfox_2\obj\Debug\fasfox_2.dll
+C:\Users\Arthur\Documents\cAlgo\Sources\Robots\fasfox_2\fasfox_2\obj\Debug\fasfox_2.pdb
+C:\Users\Arthur\Documents\cAlgo\Sources\Robots\fasfox_2\fasfox_2\bin\Debug\cAlgo.API.xml
